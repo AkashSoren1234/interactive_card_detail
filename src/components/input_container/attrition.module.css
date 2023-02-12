@@ -1,0 +1,14 @@
+.attrition {
+  color: var(--very-dark-violet);
+  font-size: 0.8rem;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.attrition a {
+  color: var(--very-dark-violet);
+}
+
+.attrition a:hover {
+  text-decoration: none;
+}

@@ -1,0 +1,14 @@
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  /* background-color: aqua; */
+}
+
+@media (min-width: 1020px) {
+  .container {
+    min-height: 100vh;
+    flex-direction: row;
+  }
+}
