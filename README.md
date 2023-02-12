@@ -28,15 +28,17 @@ Users should be able to:
 
 ### Screenshot
 
-- Desktop View: ![](./design/desktop-design.jpg)
+- Desktop View: 
+![](./design/desktop-design.jpg)
 
-- Mobile View: ![](./design/mobile-design.jpg)
+- Mobile View: 
+![](./design/mobile-design.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AkashSoren1234/interactive_card_detail.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/AkashSoren1234/interactive_card_detail.git](https://github.com/AkashSoren1234/interactive_card_detail.git)
+- Live Site URL: [https://akashsoren1234.github.io/interactive_card_detail/](https://akashsoren1234.github.io/interactive_card_detail/)
 
 ## My process
 
@@ -45,9 +47,9 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
+- Vanilla Javascript
 
 ## Author
 
